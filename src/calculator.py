@@ -15,5 +15,3 @@ def divide(a, b):
     if b == 0:
         raise ValueError("Cannot divide by zero")
     return a / b
-
-# TODO: Students will add multiply, divide, power, sqrt functions
